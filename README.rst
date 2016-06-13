@@ -13,13 +13,13 @@ Features
   them.
 * Load an object from a module using a middleware classes like import path.
 * Unittested (see http://ci.django-cms.org/job/django-load/)
-* Documented (see http://django-load.readthedocs.org)
+* Documented (see https://django-load.readthedocs.io)
 
 ********
 Examples
 ********
 
-For full API documentation, please refer to http://django-load.readthedocs.org.
+For full API documentation, please refer to https://django-load.readthedocs.io.
 
 Let's assume your app wants to load all ``plugins.py`` files from the installed
 apps, to allow those apps to extend your application. You can achieve this like
